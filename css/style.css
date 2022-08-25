@@ -858,6 +858,8 @@ a:focus {
     position: relative;
     overflow: hidden;
     max-height: 200px;
+    background-color: #000;
+    opacity: 0.7;
 }
 
 .portfolio .portfolio-img img {
