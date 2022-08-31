@@ -56,9 +56,9 @@
         <div class="hero" id="home">
             <div class="container-fluid">
                 <div class="row align-items-center">
-                    <div class="col-sm-12 col-md-6">
+                    <div class="col-sm-12 col-md-6" style="margin: 0 auto;">
                         <div class="hero-content">
-                            <div class="hero-text">
+                            <div class="hero-text" style="text-align: center;">
                 
                                 <h1>꿈을 향해 대담하게 날아가는 새처럼</h1>
                                 <h2></h2>
@@ -158,52 +158,40 @@
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.0s">
                         <div class="service-item">
                             <div class="service-icon">
-                                <i class="fa fa-laptop"></i>
+                            <img src="img/skill-icon1.png" alt="Image">
                             </div>
                             <div class="service-text">
-                                <h3>Web Design</h3>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Phase nec preti mi. Curabi facilis ornare velit non
-                                </p>
+                                <h2>Photoshap</h2>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="service-item">
                             <div class="service-icon">
-                                <i class="fa fa-laptop-code"></i>
+                                <img src="img/skill-icon2.png" alt="Image">
                             </div>
                             <div class="service-text">
-                                <h3>Web Development</h3>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Phase nec preti mi. Curabi facilis ornare velit non
-                                </p>
+                                <h2>Illustrator</h2>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="service-item">
                             <div class="service-icon">
-                                <i class="fab fa-android"></i>
+                                <img src="img/skill-icon3.png" alt="Image">
                             </div>
                             <div class="service-text">
-                                <h3>Apps Design</h3>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Phase nec preti mi. Curabi facilis ornare velit non
-                                </p>
+                                <h2>Work Speed</h2>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="service-item">
                             <div class="service-icon">
-                                <i class="fab fa-apple"></i>
+                                <img src="img/skill-icon4.png" alt="Image">
                             </div>
                             <div class="service-text">
-                                <h3>Apps Development</h3>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Phase nec preti mi. Curabi facilis ornare velit non
-                                </p>
+                                <h2>Idea</h2>
                             </div>
                         </div>
                     </div>
@@ -618,17 +606,30 @@
                                 <img src="img/blog-1.jpg" alt="Blog">
                             </div>
                             <div class="blog-text">
-                                <h2>Lorem ipsum dolor sit amet</h2>
+                                <h2>Rene</h2>
+                              <!--
                                 <div class="blog-meta">
                                     <p><i class="far fa-user"></i>Admin</p>
                                     <p><i class="far fa-list-alt"></i>Web Design</p>
                                     <p><i class="far fa-calendar-alt"></i>01-Jan-2045</p>
                                     <p><i class="far fa-comments"></i>5</p>
                                 </div>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Nullam commodo mattis mi. Nullam eu erat lectus. Proin viverra risus vitae luctus. Proin ut ante, vitae sapien. Fusce sem ac erat rhoncus, ornare mattis nisl massa et eros vitae pulvin
-                                </p>
-                                <a class="btn" href="http://yui8870.cafe24.com">렌즈모아 리디자인 <i class="fa fa-angle-right"></i></a>
+                            -->
+                                
+                                    <p> <img src="img/web-icon.jpg" alt="Image"> 사이트명 : Rene</p>
+                                    <p> <img src="img/web-icon.jpg" alt="Image"> 제작기간 : 2주 (기획/디자인/코딩)</p> 
+                                    <p> <img src="img/web-icon.jpg" alt="Image"> 컨셉 : 개성있는, 심플한, 고급스러운</p> 
+                                    <p> <img src="img/web-icon.jpg" alt="Image"> 컬러 : 흰색, 빨강색, 초록색, 검정색</p>
+
+                                    <p>
+                                        라코스테의 깔끔한 의류 및 잡화에 관심있는<br>
+                                        고객들을 대상으로 편리하게 쇼핑할 수 있는 서비스를<br>
+                                        제공하는 쇼핑몰 컨셉으로 라코스테의 설립자 앞글자의<br>
+                                        네임을 따 "Rene" 로 리다지인하여 제작하였습니다.<br> 
+                                    </p>
+
+                                
+                                <a class="btn" href="http://rene0.cafe24.com/">바로가기 <i class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -638,17 +639,30 @@
                                 <img src="img/blog-2.jpg" alt="Blog">
                             </div>
                             <div class="blog-text">
-                                <h2>Lorem ipsum dolor sit amet</h2>
+                                <h2>lensmoa</h2>
+                             
+                           <!--
                                 <div class="blog-meta">
                                     <p><i class="far fa-user"></i>Admin</p>
-                                    <p><i class="far fa-list-alt"></i>Apps Design</p>
+                                    <p><i class="far fa-list-alt"></i>Web Design</p>
                                     <p><i class="far fa-calendar-alt"></i>01-Jan-2045</p>
-                                    <p><i class="far fa-comments"></i>10</p>
+                                    <p><i class="far fa-comments"></i>5</p>
                                 </div>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Nullam commodo mattis mi. Nullam eu erat lectus. Proin viverra risus vitae luctus. Proin ut ante, vitae sapien. Fusce sem ac erat rhoncus, ornare mattis nisl massa et eros vitae pulvin
-                                </p>
-                                <a class="btn" href="http://rene0.cafe24.com/">라코스테 리디자인 <i class="fa fa-angle-right"></i></a>
+                            -->
+                                
+                            <p> <img src="img/web-icon.jpg" alt="Image"> 사이트명 : lensmoa</p>
+                            <p> <img src="img/web-icon.jpg" alt="Image"> 제작기간 : 2주 (기획/디자인/코딩)</p> 
+                            <p> <img src="img/web-icon.jpg" alt="Image"> 컨셉 : 깔끔한, 세련된, 고급스러운</p> 
+                            <p> <img src="img/web-icon.jpg" alt="Image"> 컬러 : 흰색, 검정색</p>
+
+                            <p>
+                                메인배너 사이즈를 높게 배치해 메인 상품 홍보성을 높였습니다.<br>
+                                상픔 구매 유도성을 생각하여 컨셉 컬러를 설정하고<br>
+                                기존 "렌즈타운" 사이트의 네임을 따 "lensmoa" 로<br>
+                                리다지인하여 제작하였습니다.
+                            </p>
+
+                                <a class="btn" href="http://yui8870.cafe24.com">바로가기 <i class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -657,7 +671,7 @@
         </div>
         <!-- Blog End -->
 
-        <!-- Price Start -->
+        <!-- Price Start --
         <div class="price" id="price">
             <div class="container">
                 <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
@@ -752,10 +766,10 @@
                 </div>
             </div>
         </div>
-        <!-- Price End -->
+        -- Price End -->
         
         
-        <!-- Testimonial Start -->
+        <!-- Testimonial Start --
         <div class="testimonial wow fadeInUp" data-wow-delay="0.1s" id="review">
             <div class="container">
                 <div class="testimonial-icon">
@@ -801,10 +815,10 @@
                 </div>
             </div>
         </div>
-        <!-- Testimonial End -->
+       Testimonial End -->
 
 
-        <!-- Team Start -->
+        <!-- Team Start --
         <div class="team" id="team">
             <div class="container">
                 <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
@@ -895,10 +909,10 @@
                 </div>
             </div>
         </div>
-        <!-- Team End -->
+       Team End -->
         
         
-        <!-- Contact Start -->
+        <!-- Contact Start --
         <div class="contact wow fadeInUp" data-wow-delay="0.1s" id="contact">
             <div class="container-fluid">
                 <div class="container">
@@ -934,7 +948,7 @@
                 </div>
             </div>
         </div>
-        <!-- Contact End -->
+        Contact End -->
 
 
       
@@ -945,11 +959,11 @@
             <div class="container-fluid">
                 <div class="container">
                     <div class="footer-info">
-                        <h2>Kate Winslet</h2>
-                        <h3>123 Street, New York, USA</h3>
+                        <h2>Web Design Lee Ho Jin</h2>
+                        <h3>해당 사이트는 1920×1080 해상도에 최적화되어 있습니다.</h3>
                         <div class="footer-menu">
-                            <p>+012 345 67890</p>
-                            <p>info@example.com</p>
+                            <p>010-3***-9***</p>
+                            <p>yui8870@gmail.com</p>
                         </div>
                         <div class="footer-social">
                             <a href=""><i class="fab fa-twitter"></i></a>
@@ -961,7 +975,10 @@
                     </div>
                 </div>
                 <div class="container copyright">
-                    <p>&copy; <a href="#">Your Site Name</a>, All Right Reserved | Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
+                    <p>&copy; <a href="#"></a>
+                        본 사이트는 상업적 목적이 아닌 웹 디자이너 이호진 개인 포트폴리오 사이트로 제작되었습니다.<br>
+                        일부 이미지 및 폰트 등은 그 출처가 따로 있음을 알려드립니다.<br>
+                        <a href="https://htmlcodex.com"></a></p>
                 </div>
             </div>
         </div>
