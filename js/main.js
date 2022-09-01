@@ -105,5 +105,15 @@
         portfolioIsotope.isotope({filter: $(this).data('filter')});
     });
     
+
+    //mainpage
+    let maintext = document.querySelector("mainpage p")
+    window.addEventListener('scroll',function() {
+        let value = window.scrollY;
+        console.log("scrollY", value);
+
+    });
+     
+
 })(jQuery);
 

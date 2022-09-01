@@ -8,7 +8,7 @@
         <meta content="Free Website Template" name="description">
 
         <!-- Favicon -->
-        <link href="img/favicon.ico" rel="icon">
+        <link href="img/" rel="icon">
 
         <!-- Google Font -->
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -52,27 +52,18 @@
         <!-- Nav Bar End -->
 
 
-        <!-- Hero Start -->
-        <div class="hero" id="home">
-            <div class="container-fluid">
-                <div class="row align-items-center">
-                    <div class="col-sm-12 col-md-6" style="margin: 0 auto;">
-                        <div class="hero-content">
-                            <div class="hero-text" style="text-align: center;">
-                
-                                <h1>꿈을 향해 대담하게 날아가는 새처럼</h1>
-                                <h2></h2>
-                                <div class="typed-text">디자이너로 날아오르겠습니다.</div>
-                            </div>
-                            <div class="hero-btn">
-                                <a class="btn" href="#about">About Me</a>
-                                <a class="btn" href="">Contact Me</a>
-                            </div>
-                        </div>
-                    </div>
+        <!-- mainpage Start -->
+        <section class="mainpage">
+            <p>PORTFOLIO</p>
+        </section>
+        <img class="bgicon1" src="img/hero-bg-icon1.jpg">
+        <img class="bgicon2" src="img/hero-bg-icon2.jpg">
+        <img class="bgicon3" src="img/hero-bg-icon3.jpg">
+        <div class="mainpage-btn">
+            <a class="btn" href="#about">About Me</a>
+        </div>
+            
 
-                </div>
-            </div>
         </div>
         <!-- Hero End -->
 
