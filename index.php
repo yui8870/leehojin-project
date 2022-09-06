@@ -37,14 +37,10 @@
                     <div class="navbar-nav ml-auto">
                         <a href="#home" class="nav-item nav-link active">Home</a>
                         <a href="#about" class="nav-item nav-link">About</a>
-                        <a href="#service" class="nav-item nav-link">Service</a>
-                        <a href="#experience" class="nav-item nav-link">Experience</a>
+                        <a href="#service" class="nav-item nav-link">skill</a>
+                        <a href="#experience" class="nav-item nav-link">Education</a>
                         <a href="#portfolio" class="nav-item nav-link">Portfolio</a>
-                        <a href="#price" class="nav-item nav-link">Price</a>
-                        <a href="#review" class="nav-item nav-link">Review</a>
-                        <a href="#team" class="nav-item nav-link">Team</a>
-                        <a href="#blog" class="nav-item nav-link">Blog</a>
-                        <a href="#contact" class="nav-item nav-link">Contact</a>
+                        <a href="#blog" class="nav-item nav-link">Web Project</a>
                     </div>
                 </div>
             </div>
@@ -53,12 +49,9 @@
 
 
         <!-- mainpage Start -->
-        <section class="mainpage">
+        <section class="mainpage" id="home">
             <p>PORTFOLIO</p>
         </section>
-        <img class="bgicon1" src="img/hero-bg-icon1.jpg">
-        <img class="bgicon2" src="img/hero-bg-icon2.jpg">
-        <img class="bgicon3" src="img/hero-bg-icon3.jpg">
         <div class="mainpage-btn">
             <a class="btn" href="#about">About Me</a>
         </div>
@@ -70,80 +63,56 @@
 
         <!-- About Start -->
         <div class="about wow fadeInUp" data-wow-delay="0.1s" id="about">
-            <div class="container-fluid">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="about-img">
-                            <img src="img/about.jpg" alt="Image">
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="about-content">
-                            <div class="section-header text-left">
-                                <p>Learn About Me</p>
-                                <h2>Hello Im Hojin🤚🏻💙</h2>
-                            </div>
-                            <div class="about-text">
-                                <p>
-                                    안녕하세요. 지금부터 저를 소개하겠습니다.<br>
-                                    저는 밝고 긍정적인 에너지를 소유하고 있으며,<br>
-                                    한 눈에 보아도 전하고자 하는 뜻이 무엇인지<br>
-                                    전달 될 수 있는 깔끔한 디자인을 선호합니다.<br>
-                                    <br>
-                                    20살에 첫 사회생활에 발을 디뎌서<br>
-                                    직장이란 큰 틀에 소속 되어 책임감과 인내심을 가지고<br>
-                                    2년 10개월 정도의 경력을 쌓아왔습니다.<br>
-                                    <br>
-                                    지금보다 더욱 훌륭한 디자이너가 되기 위하여<br>
-                                    꿈을 향해 대담하게 날아가는 새처럼 높이 날아오르겠습니다.
-                                </p>
-                            </div>
-                            <div class="skills">
-                                <div class="skill-name">
-                                    <p>photoshap</p><p>95%</p>
-                                </div>
-                                <div class="progress">
-                                    <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                                <div class="skill-name">
-                                    <p>Illustrator</p><p>85%</p>
-                                </div>
-                                <div class="progress">
-                                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                                <div class="skill-name">
-                                    <p>Work Speed</p><p>95%</p>
-                                </div>
-                                <div class="progress">
-                                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                                <div class="skill-name">
-                                    <p>idea</p><p>85%</p>
-                                </div>
-                                <div class="progress">
-                                    <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                            </div>
-                            <a class="btn" href="img/main_profile.jpg" data-lightbox="mainprofile">자세히 보기</a>
-
-                            
-                              
-                                
-                            </div>
-                        </div>
-                    </div>
+            <div class="col-lg-6">
+                <div class="about-img">
+                    <img src="img/about.jpg" alt="Image">
+                    
                 </div>
             </div>
-        </div>
+                       
         <!-- About End -->
+        <div class="about-content">
+
+            <div class="skills">
+                <div class="skill-name">
+                    <p>photoshap</p><p>95%</p>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+                <div class="skill-name">
+                    <p>Illustrator</p><p>85%</p>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+                <div class="skill-name">
+                    <p>Work Speed</p><p>95%</p>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+                <div class="skill-name">
+                    <p>idea</p><p>85%</p>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+
+            </div>
+        </div>
+
+
         
-        
+
+
         <!-- Service Start -->
         <div class="service" id="service">
             <div class="container">
                 <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>What I do</p>
-                    <h2>Awesome Quality Services</h2>
+                   
+                    <h2>My Skill</h2>
                 </div>
                 <div class="row">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.0s">
@@ -153,6 +122,7 @@
                             </div>
                             <div class="service-text">
                                 <h2>Photoshap</h2>
+                                <p>다양한 그래픽 디자인과 시안을 포토샵을 통해 제작할 수 있습니다.</p>
                             </div>
                         </div>
                     </div>
@@ -163,6 +133,7 @@
                             </div>
                             <div class="service-text">
                                 <h2>Illustrator</h2>
+                                <p>일러스트를 통해 다양한 패키지 및 인쇄물 디자인을 구현할 수 있습니다.</p>
                             </div>
                         </div>
                     </div>
@@ -173,6 +144,7 @@
                             </div>
                             <div class="service-text">
                                 <h2>Work Speed</h2>
+                                <p>최상의 퀄리티로 빠른 작업 속도를 내기 위해 항상 노력하고 있습니다.</p>
                             </div>
                         </div>
                     </div>
@@ -183,6 +155,8 @@
                             </div>
                             <div class="service-text">
                                 <h2>Idea</h2>
+                                <p>아이디어는 결국 발견입니다. 다양한 각도로 접근하여
+                                    제한된 시간 내에 많은 아이디어를 생성해 내고 있습니다.</p>
                             </div>
                         </div>
                     </div>
@@ -196,19 +170,10 @@
         <div class="experience" id="experience">
             <div class="container">
                 <header class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>My Resume</p>
-                    <h2>Working Experience</h2>
+                    <p>point 1</p>
+                    <h2>Education</h2>
                 </header>
                 <div class="timeline">
-                    <div class="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
-                        <div class="timeline-text">
-                            <div class="timeline-date">2012 - 2015</div>
-                            <h2>학력사항</h2>
-                            <p>
-                                화신중학교 졸업
-                            </p>
-                        </div>
-                    </div>
                     <div class="timeline-item right wow slideInRight" data-wow-delay="0.1s">
                         <div class="timeline-text">
                             <div class="timeline-date">2016 - 2019</div>
@@ -264,8 +229,8 @@
         <div class="portfolio" id="portfolio">
             <div class="container">
                 <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>My Portfolio</p>
-                    <h2>My Excellent Portfolio</h2>
+                    <p>point 2</p>
+                    <h2>My Portfolio</h2>
                 </div>
                 <div class="row">
                     <div class="col-12">
@@ -587,8 +552,8 @@
           <div class="blog" id="blog">
             <div class="container">
                 <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>From Blog</p>
-                    <h2>Latest Articles</h2>
+                    <p>point 3</p>
+                    <h2>Web Project</h2>
                 </div>
                 <div class="row">
                     <div class="col-lg-6">
