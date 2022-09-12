@@ -24,7 +24,7 @@
         <link href="css/style.css" rel="stylesheet">
     </head>
 
-    <body data-spy="scroll" data-target=".navbar" data-offset="51">
+    <body data-spy="scroll" data-target=".navbar" data-offset="51" style="overflow-x: hidden">
         <!-- Nav Bar Start -->
         <div class="navbar navbar-expand-lg bg-light navbar-light">
             <div class="container-fluid">
@@ -210,15 +210,8 @@
         <!-- Banner Start -->
         <div class="banner wow zoomIn" data-wow-delay="0.1s">
             <div class="container">
-                <div class="section-header text-center">
-                    <p>Reasonable Price</p>
-                    <h2>Get A <span>Special</span> Price</h2>
-                </div>
                 <div class="container banner-text">
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. 
-                    </p>
-                    <a class="btn">Pricing Plan</a>
+                    <a class="btn" href="img/portfolio-1.pdf">이력서 보기</a>
                 </div>
             </div>
         </div>
@@ -920,13 +913,6 @@
                         <div class="footer-menu">
                             <p>010-3***-9***</p>
                             <p>yui8870@gmail.com</p>
-                        </div>
-                        <div class="footer-social">
-                            <a href=""><i class="fab fa-twitter"></i></a>
-                            <a href=""><i class="fab fa-facebook-f"></i></a>
-                            <a href=""><i class="fab fa-youtube"></i></a>
-                            <a href=""><i class="fab fa-instagram"></i></a>
-                            <a href=""><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                 </div>
