@@ -1231,6 +1231,7 @@ a:focus {
 .banner {
     position: relative;
     width: 100%;
+    height: 823px;
     margin: 100px 0;
     padding: 260px 0;
     background: url(../img/banner01.jpg) left center no-repeat;
@@ -1240,8 +1241,8 @@ a:focus {
     max-width: 750px;
     text-align: center;
     position: absolute;
-    top: 220px;
-    left: 400px;
+    top: 345px;
+    left: 293px;
 }
 
 .banner .section-header {
@@ -1272,7 +1273,6 @@ a:focus {
 }
 
 .banner .banner-text .btn {
-    margin-top: 15px;
     color: #ffffff;
     background: #000000;
     box-shadow: inset 0 0 0 50px #000000;

@@ -211,7 +211,7 @@
         <div class="banner wow zoomIn" data-wow-delay="0.1s">
             <div class="container">
                 <div class="container banner-text">
-                    <a class="btn" href="img/portfolio-1.pdf">이력서 보기</a>
+                    <a class="btn" href="img/webdesign_leehojin.pdf">이력서 보기</a>
                 </div>
             </div>
         </div>
